@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "1C"
+    id          = "211864168168749494"
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
 <name>ТЕСТ. 1C Склад</name>
 
